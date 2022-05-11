@@ -63,6 +63,13 @@ li {
   justify-content: space-between;
 }
 
+.ability ul h3 {
+  padding: 0;
+  color: #9490ff;
+  font-size: 18px;
+
+}
+
 .logo {
   display: flex;
   justify-content: space-between;
@@ -72,11 +79,6 @@ li {
 .h {
   display: flex;
   justify-content: space-between;
-}
-
-h4 {
-  color: #9490ff;
-  padding: 0;
 }
 
 h2 {
@@ -98,7 +100,15 @@ h1 {
 }
 
 .s {
-  padding-bottom: 20px;
+  margin-top: 20px;
+  padding-bottom: 0px;
+}
+
+.s ul h3 {
+  padding: 0;
+  color: #9490ff;
+  font-size: 18px;
+
 }
 
 .img {
@@ -528,6 +538,7 @@ form {
   .icons {
     display: flex;
     justify-content: center;
+    flex-direction: row;
   }
 
   .icons ul {
@@ -535,7 +546,7 @@ form {
   }
 
   .email {
-    margin-top: 25px;
+    margin-top: 10px;
     color: #fff;
   }
 
