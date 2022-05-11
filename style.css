@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 body {
   background: #191765;
   font-family: Roboto, sans-serif;
@@ -67,7 +68,6 @@ li {
   padding: 0;
   color: #9490ff;
   font-size: 18px;
-
 }
 
 .logo {
@@ -101,14 +101,13 @@ h1 {
 
 .s {
   margin-top: 20px;
-  padding-bottom: 0px;
+  padding-bottom: 0;
 }
 
 .s ul h3 {
   padding: 0;
   color: #9490ff;
   font-size: 18px;
-
 }
 
 .img {
