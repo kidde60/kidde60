@@ -3,7 +3,11 @@
 
 <h2>👋 Hi, I’m Kidde George William</h2>
 
+<<<<<<< HEAD
 - 💻: I am currently enrolled in a full-stack web development course at Microverse online coding school. 
+=======
+- 💻: I am currently enrolled in a full-stack web development course at Microverse online cording school. 
+>>>>>>> 77ba5133bf0c9f4c2cd7c95bb17bf60d81cf013f
 - 👀 I’m interested in developing software applications and websites to solve real world problems.
 - 🌱 I’m constantly learning new software tools and technology. 
 - 💞️ I’m looking to collaborate in the building of web & mobile applications.
