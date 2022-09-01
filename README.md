@@ -16,12 +16,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidde60&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/kidde60/github-readme-status) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnselemOdims&repo=Portfolio&theme=tokyonight)](https://github.com/kidde60/kidde60.github.io)
-
-# Technologies & Tools
-
-<
-    </br> 
-    
- ## Github Streak Stats   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kidde60&theme=algolia)](https://git.io/streak-stats)
-</br>
