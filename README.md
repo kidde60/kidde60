@@ -10,3 +10,4 @@
 - 🎵: My hobbies are camping, tours and travel.
 - 📫 You can reach me via mail: kgeorgewilliam60@gmail.com
 
+![kidde's github stats](https://github-readme-stats.vercel.app/api?username=kidde60)
