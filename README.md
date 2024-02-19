@@ -1,4 +1,5 @@
 ![giphy](https://user-images.githubusercontent.com/50941074/145535504-e7865f42-1c16-4fe5-a154-ce108bab0514.gif)
+
 <h2>👋 Hi, I’m George William Kidde</h2>
 - 💻: I recently enrolled in a full-stack web development course at Microverse an online coding school. 
 - 👀 I’m interested in developing software applications and websites to solve real-world problems.
